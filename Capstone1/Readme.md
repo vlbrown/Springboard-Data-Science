@@ -8,3 +8,9 @@ For your first capstone project:
    * The goal is to get a handle on a larger project without feeling overwhelmed, so select a project that doesn’t require web scraping, which is often more difficult than it appears.
 
 More files and informaion can be found on [my wiki](http://wiki.cfcl.com/Vicki/Datascience).
+
+Order of files and Jupyer notebooks
+   1. Capstone1Proposal.pdf
+   2. Capstone1_WQ_Data_Wrangling_Part1.ipynb	
+   3. Capstone1_WQ_Data_Wrangling_Part2.ipynb	
+   4. Capstone1_WQ_Data_Wrangling_Phyto.ipynb
