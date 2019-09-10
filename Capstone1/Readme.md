@@ -7,7 +7,7 @@ For your first capstone project:
    * (Optional) Choose a project that leverages any specific industry expertise you may already have from prior work experience.
    * The goal is to get a handle on a larger project without feeling overwhelmed, so select a project that doesn’t require web scraping, which is often more difficult than it appears.
 
-More files and informaion can be found on [my wiki](http://wiki.cfcl.com/Vicki/Datascience).
+More files and information can be found on [my wiki](http://wiki.cfcl.com/Vicki/Datascience).
 
 Order of files and Jupyer notebooks
    1. Capstone1Proposal.pdf
