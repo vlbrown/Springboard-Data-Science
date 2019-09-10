@@ -6,6 +6,8 @@ The course curiculum requires multiple "mini projects" to be completed and submi
 
 The projects:
 
+### Unit 5 - Data Wangling
+
 1. JSON - practice data wrangling with a World Bank dataset from a school quality improvement project in Ethiopia.
    * data_wrangling_json_MiniProject.ipynb
 
@@ -15,3 +17,13 @@ The projects:
    
 3. API - analyze the stock prices of a company, using a web API to gather equities data from the Frankfurt Stock Exchange (FSE).
    * data_wrangling_API_mini_project.ipynb
+
+### Unit 8 - Statistical Methods for Data Analysis
+
+1. Frequentist Inference, mini-project A
+
+2. Frequentist Inference, mini-Project B
+
+3. Bootstrap Inference Mini-Project
+
+4. Bayesian Inference 
