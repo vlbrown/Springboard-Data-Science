@@ -1,6 +1,7 @@
-# Capstone 1 - Readme
+# Springboard Data Science Career Track
+## Capstone 1
 
-The Data Science Career Track requires two capstone projects. 
+The course curriculum requires two major capstone projects to be compleed and submitted.. 
 
 For your first capstone project:
    * Propose a topic that is straightforward in both approach and complexity.
