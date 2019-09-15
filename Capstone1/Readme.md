@@ -11,17 +11,17 @@ For your first capstone project:
 More files and information can be found on [my wiki](http://wiki.cfcl.com/Vicki/Datascience).
 
 ### Files and Jupyter notebooks
-  1. Capstone1Proposal.pdf
-   
+   1. Capstone1Proposal.pdf
+ 
 #### Data Wrangling
 
-  1. Capstone1_WQ_Data_Wrangling_Part1.ipynb	
-  2. Capstone1_WQ_Data_Wrangling_Part2.ipynb	
-  3. Capstone1_WQ_Data_Wrangling_Phyto.ipynb
-  4. Capstone1_WQ_Data_Wrangling_Phyto_2.ipynb
-  5. Capstone1_WQ_Data_Wrangling_Stations.ipynb
-  6. Capstone1_Data_Wrangling_Report.pdf
+   1. Capstone1_WQ_Data_Wrangling_Part1.ipynb	
+   2. Capstone1_WQ_Data_Wrangling_Part2.ipynb	
+   3. Capstone1_WQ_Data_Wrangling_Phyto.ipynb
+   4. Capstone1_WQ_Data_Wrangling_Phyto_2.ipynb
+   5. Capstone1_WQ_Data_Wrangling_Stations.ipynb
+   6. Capstone1_Data_Wrangling_Report.pdf
 
 #### Data Story
-Capstone1_Data_Story.ipynb
+   1. Capstone1_Data_Story.ipynb
 
