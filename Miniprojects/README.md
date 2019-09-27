@@ -4,7 +4,7 @@
 
 The course curiculum requires multiple "mini projects" to be completed and submitted.
 
-**Note** - GitHub can have problems rendering Jupyter notebooks. My notebooks are also [posted in my wiki](http://wiki.cfcl.com/Vicki/Datascience/MiniProjects)
+**Note** - GitHub can have problems rendering Jupyter notebooks. My notebooks are also [posted in my wiki](http://wiki.cfcl.com/Vicki/Datascience/MiniProjects).
 
 The projects:
 
