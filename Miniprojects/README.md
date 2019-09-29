@@ -23,9 +23,12 @@ The projects:
 ### Unit 8 - Statistical Methods for Data Analysis
 
 1. Frequentist Inference, mini-project A
+   * inferential_statistics_1a.ipynb
 
 2. Frequentist Inference, mini-Project B
+   * inferential_statistics_1b.ipynb
 
 3. Bootstrap Inference Mini-Project
+   * inferential_statistics_2-bootstrap.ipynb
 
 4. Bayesian Inference 
