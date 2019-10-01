@@ -32,3 +32,4 @@ The projects:
    * inferential_statistics_2-bootstrap.ipynb
 
 4. Bayesian Inference 
+   * inferential_statistics_3-Bayesian.ipynb
