@@ -14,9 +14,10 @@ More files and information can be found on [my wiki](http://wiki.cfcl.com/Vicki/
 
 
 ### Files and Jupyter notebooks
+
    1. Capstone1Proposal.pdf
  
-#### Data Wrangling
+#### Unit 5: Data Wrangling
 
    1. Capstone1_WQ_Data_Wrangling_Part1.ipynb	
    2. Capstone1_WQ_Data_Wrangling_Part2.ipynb	
@@ -25,6 +26,12 @@ More files and information can be found on [my wiki](http://wiki.cfcl.com/Vicki/
    5. Capstone1_WQ_Data_Wrangling_Stations.ipynb
    6. Capstone1_Data_Wrangling_Report.pdf
 
-#### Data Story
+#### Unit 7: Data Story
+
    1. Capstone1_Data_Story.ipynb
+
+#### Unit 8: Statistical Methods
+
+   1. Capstone1_Statistical_Experiments.ipynb
+   1. Capstone1_Statistics.ipynb
 
