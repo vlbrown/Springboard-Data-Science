@@ -10,7 +10,7 @@ For your first capstone project:
 
 More files and information can be found on [my wiki](http://wiki.cfcl.com/Vicki/Datascience).
 
-**Note** - GitHub can have problems rendering Jupyter notebooks. My notebooks are [posted in my wiki](http://wiki.cfcl.com/Vicki/Datascience/CapStone1).
+**Note** - GitHub can have problems rendering Jupyter notebooks. My notebooks are [posted in my wiki](http://wiki.cfcl.com/Vicki/Datascience/CapStone1) in HTML format.
 
 
 ### Files and Jupyter notebooks
