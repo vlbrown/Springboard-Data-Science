@@ -29,9 +29,11 @@ More files and information can be found on [my wiki](http://wiki.cfcl.com/Vicki/
 #### Unit 7: Data Story
 
    1. Capstone1_Data_Story.ipynb
+   2. Capstone 1 - Data Storytelling Report.pdf
 
 #### Unit 8: Statistical Methods
 
    1. Capstone1_Statistical_Experiments.ipynb
-   1. Capstone1_Statistics.ipynb
+   2. Capstone1_Statistics.ipynb
+   3. Capstone 1 - Apply Inferential Statistics.pdf
 
