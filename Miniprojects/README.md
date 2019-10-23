@@ -33,3 +33,9 @@ The projects:
 
 4. Bayesian Inference 
    * inferential_statistics_3-Bayesian.ipynb
+
+### Unit 10 - Machine Learning
+
+1. 10.1.5 linear_regression
+
+
