@@ -36,6 +36,7 @@ The projects:
 
 ### Unit 10 - Machine Learning
 
-1. 10.1.5 linear_regression
+1. linear_regression
+   * Mini_Project_Linear_Regression.ipynb
 
 
