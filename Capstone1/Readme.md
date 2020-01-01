@@ -37,3 +37,8 @@ More files and information can be found on [my wiki](http://wiki.cfcl.com/Vicki/
    2. Capstone1_Statistics.ipynb
    3. Capstone 1 - Apply Inferential Statistics.pdf
 
+#### Unit 10: Machine Learning
+
+   1. Capstone1_Linear_Regression.ipynb
+   2. Capstone1_KNN_classification.ipynb
+   3. Capstone1_In-depth_Analysis.pdf
