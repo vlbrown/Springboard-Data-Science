@@ -1,5 +1,5 @@
 # Springboard Data Science 
-Springboard (Data Science Career Track) -- July 2019
+Springboard (Data Science Career Track) -- [July 2019 - January 2020]
 
 The [https://www.springboard.com/career-track/](Data Science Career Track) course is an intensive, six-month program designed to prepare enrollees for a data science career. This "bootcamp" was designed for people with prior experience in statistics and programming, such as software developers, analysts, and finance professionals.
 
@@ -24,3 +24,4 @@ The course curiculum requires multiple "mini projects" to be completed and submi
 ## Capstones 
 
 The course curiculum requires two major capstone projects to be completed and submitted.
+I completed Capstone 1.
